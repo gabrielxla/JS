@@ -30,3 +30,4 @@ somarS(1,1)
 const somarAFS = (num1,num2) => console.log(num1+num2)
 
 somarAFS(1,1)
+
